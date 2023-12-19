@@ -1,8 +1,8 @@
-Necessario a Instalação de modulos gorila mux.
+Necessário a Instalação de módulos gorila mux.
 
-Rotar os dois comandos simultaneamente
-go mod init
-go mod tidy
+Rotar os dois comandos simultaneamente 
 
-Rodar o comando abaixo para instalar o pacote.
+go mod init go mod tidy
+
+Rodar o comando abaixo para instalar o pacote: 
 go get -u github.com/gorilla/mux
